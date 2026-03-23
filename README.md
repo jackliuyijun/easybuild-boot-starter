@@ -1,0 +1,1 @@
+# easybuild-boot-starter
